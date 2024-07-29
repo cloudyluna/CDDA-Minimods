@@ -4,7 +4,7 @@
     "id": "minimod_no_portal_storms",
     "name": "0.G. No Portal Storms",
     "authors": [ "Candlebury" ],
-    "maintainer": [ "Candlebury" ],
+    "maintainers": [ "Candlebury" ],
     "description": "Disables Portal Storms.  Some vanilla missions and other mod content might become inaccesible.",
     "steam_id": 3145472516,
     "category": "rebalance",
